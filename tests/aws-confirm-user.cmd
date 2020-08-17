@@ -1,0 +1,1 @@
+aws cognito-idp admin-confirm-sign-up --region us-west-2 --user-pool-id us-west-2_5H52eZOCK --username admin@example.com

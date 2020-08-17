@@ -1,0 +1,1 @@
+aws cognito-idp sign-up --region us-west-2 --client-id 35tl0oe3jl6s5bdrshptnf77n2 --username admin@example.com --password Passw0rd!

@@ -1,8 +1,8 @@
 {
-    "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+    "body": "{\"attuid\":\"at1234\",\"attpwd\":\"pwd\",\"spwxuser\":\"spUser1\"}",
     "requestContext": {
       "identity": {
-        "cognitoIdentityId": "USER-SUB-1234"
+        "cognitoIdentityId": "admin@example.com"
       }
     }
   }

@@ -1,7 +1,7 @@
 {
-    "body": "{\"content\":\"new world\",\"attachment\":\"new.jpg\"}",
+    "body": "{\"attuid\":\"at4321\",\"attpwd\":\"dwp\",\"spwxuser\":\"User1sp\"}",
     "pathParameters": {
-      "id": "28042d60-db15-11ea-bec2-6ff5f690abaa"
+      "id": "USER-SUB-1234"
     },
     "requestContext": {
       "identity": {
